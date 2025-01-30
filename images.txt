@@ -1,1 +1,1 @@
-wephoon/kingbase
+testcontainers/ryuk:0.5.1
