@@ -1,2 +1,2 @@
-chyiyaqing/kingbase
+fusondocker/kingbase:8.2
 xuxuclassmate/highgo
